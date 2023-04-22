@@ -11,3 +11,7 @@ https://public.tableau.com/views/TheTragedyofFlightAComprehensivecrashanalysis1/
 Story
 
 https://public.tableau.com/views/TheTragedyofFlightAComprehensivecrashanalysiss/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+Story Semonstration link
+
+https://drive.google.com/file/d/1ch2z46MG9fs6nBuftQ799enIcOacvltT/view?usp=drivesdk
