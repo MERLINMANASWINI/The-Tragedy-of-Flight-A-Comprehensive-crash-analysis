@@ -15,3 +15,6 @@ https://public.tableau.com/views/TheTragedyofFlightAComprehensivecrashanalysiss/
 Story Demonstration link
 
 https://drive.google.com/file/d/1jOD4ghg39-B0x349uTdSrSgYoZlMJyFc/view?usp=drivesdk
+
+html web link:
+https://merlinmanaswini.github.io/The-Tragedy-of-Flight-A-Comprehensive-crash-analysis/
